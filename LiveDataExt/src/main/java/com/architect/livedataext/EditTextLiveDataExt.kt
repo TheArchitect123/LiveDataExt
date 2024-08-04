@@ -69,3 +69,4 @@ fun EditText.bindTextOneWay(
     return readCloseable + writeCloseable
 }
 
+
